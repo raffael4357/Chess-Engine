@@ -1,2 +1,2 @@
 # Chess-Engine
-This is a Chess Engine programmed in C# using the Unity game engine for visualization.
+This is a Chess Engine programmed in C# using the Unity game engine for visualization. It has reached a level, where I'm not able to beat it anymore (at the moment). It was made as a final project for CS50's Introduction to Computer Science. It uses Minimax with Alpha-Beta pruning, obviously including move ordering, a Evaluation Function using a Mop-up score and Piece-Square Tables, including seperate ones for engame, a Quiscenece-Search at the end of a branch and a Transposition Table using a Zobrist Hasher.
